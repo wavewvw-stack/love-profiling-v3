@@ -1,0 +1,8 @@
+{
+  "name": "love-profiling-v3",
+  "version": "3.0.0",
+  "private": true,
+  "description": "恋愛プロファイリング 4人以上のリアルタイムパーティーゲーム",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
